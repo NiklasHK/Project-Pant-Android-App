@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjectPant</string>
+    <string name="project_pant_text">Project Pant</string>
+    <string name="new_ad_text">Skapa</string>
+    <string name="open_text">Öppna</string>
+    <string name="nr_of_cans_text">Antal burkar: ~ </string>
+    <string name="phone_number_text">Telefonnummer: </string>
+    <string name="address_text">Adress: </string>
+    <string name="ring_text">Ring!</string>
+    <string name="hitta_hit_text">Hitta hit!</string>
+    <string name="oauth2clientid">407362985606-iba8lrik6m329es5uttnu2j7uu9lq8pi.apps.googleusercontent.com</string>
+    <string name="sign_out_text">Logga Ut</string>
+    <string name="sign_in_text">Logga In</string>
+    <string name="sign_in_with_google_text">Logga in med google</string>
+    <string name="du_m_ste_logga_in_f_r_att_kunna_skapa_inl_gg_text">Du måste logga in för att kunna skapa inlägg</string>
+    <string name="maps_api_key">AIzaSyCq3vqNrEUambBBzczeRp-48GyjPcy600E</string>
+    <string name="visa_annonser_inom_text">Visa annonser inom:</string>
+    <string name="mina_annonser_text">Mina Annonser</string>
+</resources>

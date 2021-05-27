@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list android:opacity="opaque" xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/lightblue"/>
+
+    <item android:gravity="center"
+        android:drawable="@drawable/recycle">
+    </item>
+
+    </layer-list>
